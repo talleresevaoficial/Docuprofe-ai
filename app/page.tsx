@@ -7,7 +7,7 @@ export default function Home() {
         <div className="text-center max-w-5xl mx-auto">
           <div className="mb-8">
             <span className="bg-green-500 text-black px-4 py-2 rounded-full text-sm font-bold uppercase">
-              Más de 12,400 planeamientos entregados en 2025
+              Más de 12,400 planeamientos entregados en 2025.
             </span>
           </div>
 
